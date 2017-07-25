@@ -4,7 +4,7 @@
 
 /*EDIT THIS TO CHANGE THE BACKGROUND, I RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=app] {
-    background: url(http://www.daoulaba.com/i/2017/05/anime-headphones-wallpaper-hd.jpg) !important;
+    background: url(http://imgur.com/vMosqza) !important;
     background-size: cover !important;
 }
 
@@ -18,7 +18,7 @@
 
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
-    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/50/72/da/5072dad6219421e12e839de48caef849--catgirl-cute-girls.jpg)
+    background-image: url(http://imgur.com/a/CwadY)
 }
 
 
